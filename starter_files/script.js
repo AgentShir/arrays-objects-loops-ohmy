@@ -9,7 +9,7 @@ The `test.js` file contains tests for all of the functions in this project. Do n
 Use the following array to complete tasks 1-3
 *********************/
 let numbers = [ 1, 12, 4, 18, 9, 7, 11, 3, 101, 5, 6 ];
-
+ 
 
 /*
 1. Return the 4th element in the "numbers" array
